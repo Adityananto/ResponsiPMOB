@@ -1,0 +1,6 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Base.Theme.ResponsiPMOB" parent="Theme.AppCompat.DayNight.NoActionBar">
+    </style>
+
+    <style name="Theme.ResponsiPMOB" parent="Base.Theme.ResponsiPMOB" />
+</resources>
