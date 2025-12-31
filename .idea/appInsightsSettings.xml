@@ -8,10 +8,10 @@
             <InsightsFilterSettings>
               <option name="connection">
                 <ConnectionSetting>
-                  <option name="appId" value="PLACEHOLDER" />
-                  <option name="mobileSdkAppId" value="" />
-                  <option name="projectId" value="" />
-                  <option name="projectNumber" value="" />
+                  <option name="appId" value="com.adit.responsipmob" />
+                  <option name="mobileSdkAppId" value="1:1037238946678:android:f304a46fdace24ac434857" />
+                  <option name="projectId" value="responsipmob-f80b2" />
+                  <option name="projectNumber" value="1037238946678" />
                 </ConnectionSetting>
               </option>
               <option name="signal" value="SIGNAL_UNSPECIFIED" />

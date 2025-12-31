@@ -3,9 +3,11 @@ package com.adit.responsipmob
 import com.google.android.gms.maps.model.LatLng
 
 enum class Severity { LOW, MEDIUM, HIGH }
-class TrafficEvent (
-    val title: String,
-    val description: String,
-    val location: LatLng,
-    val severity: Severity
+data class TrafficEvent(
+    var id: String? = null,
+    var title: String = "",
+    var description: String = "",
+    var latitude: Double = 0.0,
+    var longitude: Double = 0.0,
+    var severity: String = "LOW"
 )
